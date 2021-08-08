@@ -1,5 +1,5 @@
 {
-    "name": "test/route-generator",
+    "name": "leonard/route-generator",
     "description": "Generates the route with highest success chance from the given tickets",
     "type": "library",
     "autoload": {
