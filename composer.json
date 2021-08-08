@@ -1,0 +1,18 @@
+{
+    "name": "test/route-generator",
+    "description": "Generates the route with highest success chance from the given tickets",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Test\\RouteGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leonard",
+            "email": "leonard.savu98@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
